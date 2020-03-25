@@ -1,10 +1,9 @@
-# omnistack
-Curso online do rocketseat, semana omnistack 11
+# SEMANA OMNISTACK 11
 
--- Descrição
+## Descrição
 Uma plataforma para gerenciar doações de ONGs
 
--- Tecnologias
+## Tecnologias
 Backend: node, express, knex, sqLite, cors
 Frontend: React
 Mobile: React-Native
