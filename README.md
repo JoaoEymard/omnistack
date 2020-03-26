@@ -1,4 +1,4 @@
-# SEMANA OMNISTACK 11
+# BE THE HERO - SEMANA OMNISTACK 11
 
 ## Descrição
 Uma plataforma para gerenciar doações de ONGs
