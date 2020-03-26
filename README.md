@@ -4,6 +4,6 @@
 Uma plataforma para gerenciar doações de ONGs
 
 ## Tecnologias
-Backend: node, express, knex, sqLite, cors  
-Frontend: React  
+Backend: Node, Express, Knex, SqLite, Cors  
+Frontend: React, Axios, Feather Icons  
 Mobile: React-Native  
